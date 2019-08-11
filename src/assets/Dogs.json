@@ -1,0 +1,16 @@
+{
+    "Dogs": 
+      [
+        {   "Breed": "Bulldog", 
+            "Age":"8-10 years",
+            "Brief info":"AKC Breed Popularity: Ranks 5 of 193 , Non Sporting group, Height is 14-15 inches, Weight is 50 pounds (male), 40 pounds (female) and  Life Expectancy is 8-10 years"}, 
+           
+            {"Breed": "pug",
+             "Age":"13-15 years",
+             "Brief info":"AKC Breed Popularity: Ranks 28 of 193 , Toy group,Height is 10-13 inches , Weight is 14-18 pounds and Life Expectancy is  13-15 years "}, 
+            
+            {"Breed": "Boxer",
+             "Age":"10-12 years",
+             "Brief info":"AKC Breed Popularity: Ranks 11 of 193,working Group, Height is 23-25 inches (male), 21.5-23.5 inches (female), Weight is 65-80 pounds (male), females are about 15 pounds less than male , Life Expectancy is 10-12 years"}
+    ]
+  }

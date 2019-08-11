@@ -1,0 +1,8 @@
+{
+    "Cats": 
+      [
+        {"Bread ": "American Curl","Age":"2-3 years","Brief info":" It is a medium size cat, Weight 5 to 10 pounds"}, 
+		    {"Bread": "Bengal","Age":"10-15 years","Brief info":"Asian leopard cat,average size 5, breed exotic"}, 
+		    {"Bread": "Ragdoll","Age":"12-15 years","Brief info":" color point coat and blue eyes, large and muscular,m weight 10-15 pounds"}
+    ]
+  }
